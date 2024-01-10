@@ -1,0 +1,110 @@
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> BOOK: Animal Farm BY: George Orwell RATING: 3.98
+BOOK: Brave New World BY: Aldous Huxley RATING: 3.99
+BOOK: Fahrenheit 451 BY: Ray Bradbury RATING: 3.97
+BOOK: Frida: A Biography of Frida Kahlo BY: Hayden Herrera RATING: 4
+BOOK: Harry Potter and the Prisoner of Azkaban BY: J.K. Rowling RATING: 4.58
+BOOK: Harry Potter and the Sorcerer's Stone BY: J.K. Rowling RATING: 4.47
+BOOK: How to Become King BY: Jan Terlouw RATING: 4.12
+BOOK: The Catcher in the Rye BY: J.D. Salinger RATING: 3.81
+BOOK: The Grapes of Wrath BY: John Steinbeck RATING: 4
+BOOK: The Great Gatsby BY: F. Scott Fitzgerald RATING: 3.93
+BOOK: The Hobbit BY: J.R.R. Tolkien RATING: 4.28
+BOOK: To Kill a Mockingbird BY: Harper Lee RATING: 4.27
+BOOK: Winnie-the-Pooh BY: A.A. Milne RATING: 4.35
+BOOK: Zdarzenia na brygu Banbury BY: Witold Gombrowicz RATING: 3.57
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter name of the book:
+Book:
+==================
+Name :Winnie-the-Pooh
+Author :A.A. Milne
+Rating :4.35
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the first book (Book1):
+Enter the name of the second book (Book2):
+The closest parent to both the books is: The Great Gatsby
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the book:
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the first book (Book1):
+Enter the name of the second book (Book2):
+Book not found!
+The closest parent to both the books is: Error - wrong book name
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the first book (Book1):
+Enter the name of the second book (Book2):
+The closest parent to both the books is: The Great Gatsby
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the book:
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the first book (Book1):
+Enter the name of the second book (Book2):
+The closest parent to both the books is: The Great Gatsby
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Goodbye!
+
+[GRADER] No leaked memory (Good).

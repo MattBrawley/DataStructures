@@ -1,0 +1,151 @@
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> BOOK: A Game of Thrones BY: George R.R. Martin RATING: 4.44
+BOOK: Lonesome Dove BY: Larry McMurtry RATING: 4.51
+BOOK: Sophie's Choice BY: William Styron RATING: 4.18
+BOOK: The Alienist BY: Caleb Carr RATING: 4.06
+BOOK: The Hound of the Baskervilles BY: Arthur Conan Doyle RATING: 4.13
+BOOK: The Phantom Tollbooth BY: Norton Juster RATING: 4.19
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the book:
+Book not found!
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the book:
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> BOOK: A Game of Thrones BY: George R.R. Martin RATING: 4.44
+BOOK: Sophie's Choice BY: William Styron RATING: 4.18
+BOOK: The Alienist BY: Caleb Carr RATING: 4.06
+BOOK: The Hound of the Baskervilles BY: Arthur Conan Doyle RATING: 4.13
+BOOK: The Phantom Tollbooth BY: Norton Juster RATING: 4.19
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the book:
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> BOOK: A Game of Thrones BY: George R.R. Martin RATING: 4.44
+BOOK: The Alienist BY: Caleb Carr RATING: 4.06
+BOOK: The Hound of the Baskervilles BY: Arthur Conan Doyle RATING: 4.13
+BOOK: The Phantom Tollbooth BY: Norton Juster RATING: 4.19
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the book:
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> BOOK: A Game of Thrones BY: George R.R. Martin RATING: 4.44
+BOOK: The Alienist BY: Caleb Carr RATING: 4.06
+BOOK: The Hound of the Baskervilles BY: Arthur Conan Doyle RATING: 4.13
+BOOK: The Phantom Tollbooth BY: Norton Juster RATING: 4.19
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the book:
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the book:
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> BOOK: A Game of Thrones BY: George R.R. Martin RATING: 4.44
+BOOK: The Alienist BY: Caleb Carr RATING: 4.06
+BOOK: The Hound of the Baskervilles BY: Arthur Conan Doyle RATING: 4.13
+BOOK: The Phantom Tollbooth BY: Norton Juster RATING: 4.19
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the first book (Book1):
+Enter the name of the second book (Book2):
+The closest parent to both the books is: The Hound of the Baskervilles
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the first book (Book1):
+Enter the name of the second book (Book2):
+The closest parent to both the books is: The Phantom Tollbooth
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Goodbye!
+
+[GRADER] No leaked memory (Good).

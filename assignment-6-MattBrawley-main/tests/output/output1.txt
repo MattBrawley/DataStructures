@@ -1,0 +1,122 @@
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> BOOK: A Game of Thrones BY: George R.R. Martin RATING: 4.44
+BOOK: Lonesome Dove BY: Larry McMurtry RATING: 4.51
+BOOK: Sophie's Choice BY: William Styron RATING: 4.18
+BOOK: The Alienist BY: Caleb Carr RATING: 4.06
+BOOK: The Hound of the Baskervilles BY: Arthur Conan Doyle RATING: 4.13
+BOOK: The Phantom Tollbooth BY: Norton Juster RATING: 4.19
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> Enter the Name of the book
+Enter the Author of the book
+Enter the Rating of the book
+New Book Added!
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> Enter the Name of the book
+Enter the Author of the book
+Enter the Rating of the book
+New Book Added!
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> Enter the Name of the book
+Enter the Author of the book
+Enter the Rating of the book
+New Book Added!
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> BOOK: A Game of Thrones BY: George R.R. Martin RATING: 4.44
+BOOK: Animal Farm BY: George Orwell RATING: 3.98
+BOOK: Harry Potter and the Chamber of Secrets BY: J.K. Rowling RATING: 4.58
+BOOK: Lonesome Dove BY: Larry McMurtry RATING: 4.51
+BOOK: Sophie's Choice BY: William Styron RATING: 4.18
+BOOK: The Alienist BY: Caleb Carr RATING: 4.06
+BOOK: The Hound of the Baskervilles BY: Arthur Conan Doyle RATING: 4.13
+BOOK: The Phantom Tollbooth BY: Norton Juster RATING: 4.19
+BOOK: Winnie-the-Pooh BY: A.A. Milne RATING: 4.35
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> Enter name of the book:
+Book:
+==================
+Name :Winnie-the-Pooh
+Author :A.A. Milne
+Rating :4.35
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> Enter the name of the author
+Books By: J.K. Rowling
+Harry Potter and the Chamber of Secrets RATING: 4.58
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> Highest Rating: 4.58
+Harry Potter and the Chamber of Secrets BY: J.K. Rowling
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> The Height of the Book Collection is 5
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> Goodbye!
+
+[GRADER] No leaked memory (Good).

@@ -1,0 +1,97 @@
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Collection is empty.
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter name of the book:
+Book not found.
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the first book (Book1):
+Enter the name of the second book (Book2):
+Book not found!
+The closest parent to both the books is: Error - wrong book name
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the book:
+Book not found!
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the first book (Book1):
+Enter the name of the second book (Book2):
+Book not found!
+The closest parent to both the books is: Error - wrong book name
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the first book (Book1):
+Enter the name of the second book (Book2):
+Book not found!
+The closest parent to both the books is: Error - wrong book name
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the book:
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Enter the name of the first book (Book1):
+Enter the name of the second book (Book2):
+Book not found!
+The closest parent to both the books is: Error - wrong book name
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Remove a book
+5. Rotate the tree at given book node
+6. Find the closest parent of two books
+7. Quit
+> Goodbye!
+
+[GRADER] No leaked memory (Good).

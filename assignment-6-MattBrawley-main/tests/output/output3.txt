@@ -1,0 +1,58 @@
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> Collection is empty.
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> Enter name of the book:
+Book not found.
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> Enter the name of the author
+Books By: J.K. Rowling
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> Collection is empty.
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> The Height of the Book Collection is 0
+======Main Menu======
+1. Show book collection
+2. Add a book
+3. Search a book
+4. Display books by a given author
+5. Display the highest rated books
+6. Display the height of the book collection tree
+7. Quit
+> Goodbye!
+
+[GRADER] No leaked memory (Good).
