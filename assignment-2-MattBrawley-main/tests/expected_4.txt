@@ -1,0 +1,18 @@
+Array doubled: 1
+Total number of cases returned after the query: 14
+Queried Cases
+---------------------------------------
+Jack Donald 22
+Alan Turing 23
+Zack Cody 25
+Mary Joseph 26
+James Kimmel 33
+Harry Style 35
+Jane Doe 36
+Katie Terrance 44
+Mary Janet 45
+Harry Fondue 53
+Tony Hawk 53
+Britny Spears 65
+Harry Triplets 65
+Trevor Adams 87

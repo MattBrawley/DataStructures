@@ -1,0 +1,82 @@
+Select a numerical option:
++=====Main Menu=========+
+ 1. Build history 
+ 2. Display history 
+ 3. Add web page 
+ 4. Add owner
+ 5. View count for a web page
+ 6. Quit 
++-----------------------+
+#> Enter the new web page's url:
+Enter the new web page's id:
+Enter the previous page's url (or First):
+INVALID(previous page url)... Please enter a VALID previous page url!
+Enter the previous page's url (or First):
+adding: [20]-https://www.codecademy.com/ (HEAD)
+Select a numerical option:
++=====Main Menu=========+
+ 1. Build history 
+ 2. Display history 
+ 3. Add web page 
+ 4. Add owner
+ 5. View count for a web page
+ 6. Quit 
++-----------------------+
+#> Enter the new web page's url:
+Enter the new web page's id:
+Enter the previous page's url (or First):
+adding: [21]-https://evernote.com/ (prev: [20])
+Select a numerical option:
++=====Main Menu=========+
+ 1. Build history 
+ 2. Display history 
+ 3. Add web page 
+ 4. Add owner
+ 5. View count for a web page
+ 6. Quit 
++-----------------------+
+#> == CURRENT BROWSER HISTORY ==
+[ID:: 20]-(URL::https://www.codecademy.com/) -> [ID:: 21]-(URL::https://evernote.com/) -> NULL
+===
+Select a numerical option:
++=====Main Menu=========+
+ 1. Build history 
+ 2. Display history 
+ 3. Add web page 
+ 4. Add owner
+ 5. View count for a web page
+ 6. Quit 
++-----------------------+
+#> adding: [10]-https://www.colorado.edu/ (HEAD)
+adding: [11]-https://www.wikipedia.org/ (prev: [10])
+adding: [12]-https://brilliant.org/ (prev: [11])
+adding: [13]-https://www.khanacademy.org/ (prev: [12])
+adding: [14]-https://www.numberphile.com/ (prev: [13])
+== CURRENT BROWSER HISTORY ==
+[ID:: 10]-(URL::https://www.colorado.edu/) -> [ID:: 11]-(URL::https://www.wikipedia.org/) -> [ID:: 12]-(URL::https://brilliant.org/) -> [ID:: 13]-(URL::https://www.khanacademy.org/) -> [ID:: 14]-(URL::https://www.numberphile.com/) -> [ID:: 20]-(URL::https://www.codecademy.com/) -> [ID:: 21]-(URL::https://evernote.com/) -> NULL
+===
+Select a numerical option:
++=====Main Menu=========+
+ 1. Build history 
+ 2. Display history 
+ 3. Add web page 
+ 4. Add owner
+ 5. View count for a web page
+ 6. Quit 
++-----------------------+
+#> Enter the new web page's url:
+Enter the new web page's id:
+This ID already exists. Try again.
+Enter the new web page's id:
+Enter the previous page's url (or First):
+adding: [25]-https://www.stackoverflow.com/ (HEAD)
+Select a numerical option:
++=====Main Menu=========+
+ 1. Build history 
+ 2. Display history 
+ 3. Add web page 
+ 4. Add owner
+ 5. View count for a web page
+ 6. Quit 
++-----------------------+
+#> Quitting...Goodbye!

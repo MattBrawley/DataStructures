@@ -1,0 +1,9 @@
+Array doubled: 0
+Total number of cases returned after the query: 5
+Queried Cases
+---------------------------------------
+Jack Donald 22
+Jane Doe 25
+Macbeth Spears 25
+Mary Jane 25
+Janet Due 35

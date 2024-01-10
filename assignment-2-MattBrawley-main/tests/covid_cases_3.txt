@@ -1,0 +1,5 @@
+Zack Snyder,Omega,CopperMountain,23
+Jane Doe,Omnicron,Boulder,24
+Dorcey M,Delta,Atlanta,36
+James Kimmel,Beta,WinterPark,45
+Katrina Teressa,Alpha,Aspen,54
